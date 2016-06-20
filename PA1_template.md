@@ -3,6 +3,7 @@ title: "Reproducible Research"
 author: "Calvin Hutto"
 date: "June 19, 2016"
 output: html_document
+keep_md: yes
 ---
 ## Downloading and Initial Processing of Data
 
